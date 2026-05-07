@@ -34,7 +34,7 @@ Para ejecutar el prototipo en un entorno local, se requiere:
 - Curso: Proyecto de Grado
 - Fase: 4 - Desarrollo de la propuesta ingenieril
 - Nivel de Madurez Tecnologica: TRL5 (Prototipo validado en entorno relevante)
-- Autor: ed
+- Autor: EdWIN Fernando Ochoa Arenas
 
 ---
 Este proyecto se entrega como evidencia del componente practico y cumplimiento de la metodologia ingenieril propuesta en el documento maestro.
