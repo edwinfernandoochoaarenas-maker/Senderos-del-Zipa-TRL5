@@ -11,7 +11,7 @@ El sistema opera bajo un modelo de computacion distribuida:
 - Capa Cloud: Integracion con la API de Telegram para el envio de alertas instantaneas y registros de acceso a dispositivos moviles de forma remota.
 
 ## Funcionalidades Principales
--受 Reconocimiento de Placas: Procesamiento de caracteres alfanumericos mediante filtros de umbralizacion y procesamiento digital de imagenes.
+- Reconocimiento de Placas: Procesamiento de caracteres alfanumericos mediante filtros de umbralizacion y procesamiento digital de imagenes.
 - Validacion de Residentes: Contraste inmediato de la placa detectada con una base de datos local (residentes.txt).
 - Pausa de Confirmacion: El sistema realiza una detencion logica de 3 segundos al detectar una coincidencia para garantizar la trazabilidad visual y el envio de datos.
 - Alertas en Tiempo Real: Notificaciones diferenciadas (Acceso Autorizado / Alerta de Sospechoso) enviadas a traves de un bot de Telegram.
